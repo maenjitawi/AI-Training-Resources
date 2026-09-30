@@ -18,3 +18,9 @@
 - Digital transformation
 - Responsible AI
 - AI strategy
+## Future Topics
+
+- AI Agents
+- RAG
+- AI Automation
+- AI for Project Management
